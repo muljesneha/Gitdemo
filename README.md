@@ -1,3 +1,3 @@
 # Gitdemo
 I'm sneha<br>
-This is my First Git Repotaries<br>
+This is my First Git Repository<br>
